@@ -2,7 +2,7 @@ def fibonnaci(n):
     if n < 0:
         print("Please do not put negative integers")
     elif n == 0:
-        return
+        return 0
     elif n == 1 or n == 2:
         return 1
     else:
