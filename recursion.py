@@ -17,7 +17,7 @@ def gcd(a, b):
 
 
 def compareTo(s1, s2):
-    # this is base case
+    # this is the base case
     # the first three would be based on the length of the two strings
     ##################
     if len(s1) == 0 and len(s2) == 0:
